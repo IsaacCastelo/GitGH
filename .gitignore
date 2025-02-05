@@ -400,6 +400,7 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Random file
-*.sln
+*idk.sln
+
 # Elimina este archivo de configuración
 appsettings.json
